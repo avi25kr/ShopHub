@@ -1,0 +1,17 @@
+Flask
+flask-cors
+Flask-JWT-Extended
+Flask-PyMongo
+fastapi
+uvicorn
+gunicorn
+
+tensorflow==2.20.0
+torch==2.7.0
+torchvision==0.22.0
+scikit-learn
+scikit-image
+pandas
+matplotlib
+requests
+python-dotenv
