@@ -1,6 +1,7 @@
 # 🛍️ ShopHub
 
 **Deployed Link - https://shophub-three-chi.vercel.app/**
+
 **Full-stack e-commerce demo** built with Flask API + MongoDB + React UI  
 Features JWT authentication, product management, and AI-powered recommendations.
 
